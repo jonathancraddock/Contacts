@@ -1,0 +1,59 @@
+/*  DTV Contacts */
+/*  by Jonathan Craddock */
+/*  v0.1 : Prototype/Demo Version, 25/11/2015 */
+
+/* Defaults for HTML and Body */
+html {position: relative; min-height: 100%;}
+body {padding-top: 0px; margin-bottom: 60px;}
+
+/* Main body of page */
+#wrapper {
+	padding: 20px 15px;
+	text-align: left;
+}
+
+/* This is the panel where contacts are displayed */
+.conResults {
+	margin-top: 42px;
+}
+
+/* Slightly repositions the search bar within the fixed Navbar */
+.input-group {
+	margin-top: 6px;
+}
+
+/* Sets a lighter grey colour for the phone/mobile icons on wider displays */
+.grey-icon {
+    color: #DDD;
+}
+
+
+/* Tooltip container */
+.bubbleup {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.bubbleup .tooltiptext {
+    visibility: hidden;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+	
+	width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.bubbleup:hover .tooltiptext {
+    visibility: visible;
+}
