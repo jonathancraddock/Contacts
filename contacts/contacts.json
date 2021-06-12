@@ -1,0 +1,626 @@
+[
+  {
+    "Adam Schreiber": "Aidan Fanning",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Alba Lilly",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Alexandra Butler",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Ansel Love-Hewitt",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Anthony Trainor",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Arden Thorne",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Avery Ejiofor",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Beckham Stan",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Bella Schwarzenegger",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Brady O'Brien",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Britt Roberts",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Brooks Hounsou",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Chadwick Hewitt",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Chiwetel Moore",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Cole Hutcherson",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Conrad VanCamp",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Cooper Petsch",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Cruz Olsen",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Cyrus Boseman",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Daisy Newmar",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Dawson Gillan",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Dean Williams",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Demi Campbell",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Dion Pace",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Djimon Willis",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Dylan Bentley",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Elizabeth Moretz",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Elle Dunst",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Emily Takei",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Emma Levine",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Evangeline Robb",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Flynn Robertson",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Ford Gomez",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Foster Ridley",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Fox Miller",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Grant Ackles",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Gwendoline Heigl",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Harlow Urban",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Hendrix Momoa",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Holden Coster-Waldau",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Hope Mackie",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Hudson Harington",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Isla Coleman",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "James Turturro",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Jason Benson",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Jason Panettiere",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Jason Richards",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Jennifer Carrere",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Jensen Union",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "John Brown",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Jonas Daddario",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Jordan Dormer",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Josh Mikkelsen",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Karen Brothers",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Karl Bilson",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Keke Spiner",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Kingsley Marsden",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Kit Deschanel",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lawrence Clarke",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Lee Mara",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lena Giamatti",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lennon Rapace",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lennox Gillen",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lewis Sheen",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Liam Grace-Moretz",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Lily Morse",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Madelaine Pattinson",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Maisie Snipes",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Mandy Cox",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Mara Driver",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Mariska Moore",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Mars Egerton",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Michael Bateman",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Michael Dushku",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Mindy Weller",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Monroe Fisher",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Montgomery Hartnett",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Moss James",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Murphy Hemsworth",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Natalie Jonas-Brothers",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Nikolaj Kaling",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Noomi Keys",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Paisley Lovato",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Perry Michelle-Gellar",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Quinn Elgort",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Rachel Gershon",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Reception Desk",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Reed Christie",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Reese Sprouse",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Richard Biehn",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Ross Gellar",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Russell Boyega",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Ryder Headey",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Sebastian Grande",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Selena Byrne",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "external"
+  },
+  {
+    "Adam Schreiber": "Stone Rhames",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Taron Sadler",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "manager"
+  },
+  {
+    "Adam Schreiber": "Tatum Palmer",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Ving David",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Wentworth Kravitz",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Wes Hargitay",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "07890 123 4567",
+    "manager": "colleague"
+  },
+  {
+    "Adam Schreiber": "Wilder Armitage",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "n/a",
+    "manager": "resource"
+  },
+  {
+    "Adam Schreiber": "Board Room A1",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "n/a",
+    "manager": "resource"
+  },
+  {
+    "Adam Schreiber": "Room 101",
+    "0191 555 1234": "0191 555 1234",
+    "07890 123 4567": "n/a",
+    "manager": "resource"
+  }
+]

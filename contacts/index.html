@@ -1,0 +1,94 @@
+<html 	ng-app="contactApp" 
+		manifest="/contacts/cache.manifest" >
+ 
+<!-- Contacts v0.4 -->
+<!-- by Jonathan Craddock -->
+<!-- v0.1 : Prototype/Demo Version, 25/11/2015 -->
+<!-- v0.2 : Prototype/Demo with live data, 17/4/2015 -->
+<!-- v0.3 : Updated for cache to mobile, 9/4/2018 -->
+<!-- v0.4 : Switched for dummy data and preserving on personal site, 11/06/2021 -->
+
+<head>
+	<meta charset="utf-8">
+	<title>Contacts v0.4</title>
+	
+	<!-- Load Scripts -->
+	<script src="./js/angular.min.js"></script>	
+	<script src="./js/jquery-2.1.1.min.js"></script>
+	<script src="./js/bootstrap.min.js"></script>
+	<script src="./js/contacts.js"></script>
+	
+	<!-- Load CSS -->
+	<link rel="stylesheet" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" href="./css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="./css/contacts.css">
+
+	<!-- Viewport for Bootstrap template -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+<!-- AngularJS, main "Contacts" controller -->
+<body ng-controller="conCtrl">
+
+<!-- Position a fixed Navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+
+	<!-- Set up the search panel -->
+	<div class="input-group">
+		<div class="input-group-btn">
+		
+			<!-- Create a 'home' button at left of input group -->
+			<a href="/contacts" class="btn btn-default"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>&nbsp;&nbsp;Contacts v0.4</a>
+			
+			<!-- Set up the dropdown filter to toggle between "All" and various sub-groups -->
+			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">&nbsp;<span class="caret"></span></button>
+				<ul class="dropdown-menu">
+					<!-- Clear the role filter -->
+					<li><a href="#" ng-click="query.name='';query.role=''">Show Everyone</a></li>
+					<li role="separator" class="divider"></li>
+					<li class="dropdown-header">Filter by:</li>
+					<!-- Specify filter based on JSON "role" field -->
+					<li><a href="#" ng-click="query.role='manager'">Managers</a></li>
+					<li><a href="#" ng-click="query.role='colleague'">Colleagues</a></li>
+					<li><a href="#" ng-click="query.role='resource'">Resources</a></li>
+					<li><a href="#" ng-click="query.role='external'">External</a></li>
+
+				</ul>			
+		</div>
+	<!-- Create the name search input text box -->
+	<input ng-model="query.name" type="text" class="form-control" placeholder="name, or partial name...">
+	</div>
+	
+	</div>
+</nav> <!-- End of fixed Navbar -->
+
+<!-- Default Bootstrap wrapper -->
+<div id="wrapper" class="container theme-showcase" role="main">
+	
+	<!-- Display search results -->
+	<div class="panel panel-default conResults">
+		<table ng-controller="conCtrl" class="table">
+		
+			<!-- Apply filter and sort by name -->
+			<tr ng-repeat="contact in contacts | filter:{name: query.name, role: query.role} | orderBy:'name'">
+				<td>{{contact.name}}</td>
+				
+				<td>
+				<span class="hidden-sm hidden-md hidden-lg" ng-show="contact.office"><span class="glyphicon glyphicon-phone-alt grey-icon" aria-hidden="true"></span>&nbsp;<a href="tel:{{contact.office}}">{{contact.office}}</a></span>
+				<span class="hidden-xs" ng-show="contact.office"><span class="glyphicon glyphicon-phone-alt grey-icon" aria-hidden="true"></span>&nbsp;{{contact.office}}</span>
+				</td>
+					
+				<td>
+				<span class="hidden-sm hidden-md hidden-lg" ng-show="contact.mobile"><span class="glyphicon glyphicon-phone grey-icon" aria-hidden="true"></span>&nbsp;<a href="tel:{{contact.mobile}}">{{contact.mobile}}</a></span>
+				<span class="hidden-xs" ng-show="contact.mobile"><span class="glyphicon glyphicon-phone grey-icon" aria-hidden="true"></span>&nbsp;{{contact.mobile}}</span>
+				</td>				
+				
+			</tr>
+		</table>
+	</div>
+	
+</div><!-- /wrapper -->
+
+</body>
+</html>
