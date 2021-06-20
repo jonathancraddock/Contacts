@@ -28,6 +28,8 @@ Contacts are divided into four categories.
 
 You can filter by category using the dropdown, or enter a few letters from a name into the search bar for instant realtime filtering. Leading and trailing spaces are ignored, but spaces within a name can form a valid search string. For example `fox m` would filter `Fox Mulder`, but not `Foxmo...`, or whatever funny name someone might have! ;-)
 
+Filters combine. If you are looking for an `external` contact and you think their surname begins with `be...`, you can filter first by category, and then begin typing into the search box; or the other way around.
+
 ![Screenshot-1](https://github.com/jonathancraddock/Contacts/blob/bd6297716be6dc52242b2980131b28c8c0e7b039/images/screenshot-1.jpg)
 
 It would be easy enough to add an email address, job title, or other fields if needed.
